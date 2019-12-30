@@ -1,0 +1,38 @@
+body {
+    background-image: url("/Users/shannonroberts/Documents/Basic-Portfolio/Basic-Portfolio/assets/images/seigaiha.png");
+    font-family: 'PT Sans', sans-serif;
+    flex-grow: 1;
+    display: block;
+    margin: 8px;
+      margin-top: 8px;
+      margin-right: 8px;
+      margin-bottom: 8px;
+      margin-left: 8px;
+  }
+  
+title {
+  font-family: 'Fjalla One', sans-serif;
+  text-align: left;
+}
+
+h2 {
+  font-family: 'Fjalla One', sans-serif;
+  text-align: left;
+  font-size: 16px;
+}
+
+h3 {
+  font-family: 'Fjalla One', sans-serif;
+  text-align: left;
+  font-size: 12px;
+}
+
+
+
+.container {
+ font-family: 'Pt Sans', sans-serif;
+ font-size: 16px;
+ padding: 10px;
+
+
+}

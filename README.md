@@ -1,2 +1,2 @@
-# MyPortfolio
-Portfolio created for UCF Coding Bootcamp
+# Bootstrap-Portfolio
+Homework 2
